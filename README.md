@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **Linux Shell**
 
-- 👨‍💻 All of my projects are available at [Github, duhh!](Github, duhh!)
+- 👨‍💻 All of my projects are available at [Github, duhh!]
 
 - 💬 Ask me about **Python, JS**
 
 - 📫 How to reach me **vishalvipin123@gmail.com**
 
-- 📄 Know about my experiences [Check out my LinkedIn Page](Check out my LinkedIn Page)
+- 📄 Know about my experiences [Check out my LinkedIn Page]
 
 - ⚡ Fun fact **I love to be an ethical hacker😏**
 
