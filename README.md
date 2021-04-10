@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vishaalvipin" target="blank"><img align="center" src="<img src="https://img.icons8.com/material/50/000000/twitter--v1.png"/>" alt="vishaalvipin" height="30" width="40" /></a>
+<a href="https://twitter.com/vishaalvipin" target="blank"><img align="center" src="<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"/>" alt="vishaalvipin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishaalvipin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vishaalvipin" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vishalvipin123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vishalvipin123" height="30" width="40" /></a>
 <a href="https://discord.gg/vish#7254" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="vish#7254" height="30" width="40" /></a>
