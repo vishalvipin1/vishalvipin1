@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Information Technology**
 
-- 🤝 I’m looking for help with **Linux Shell**
+- 🤝 I’m looking for help with **Linux Shell, Web Programming**
 
 - 👨‍💻 All of my projects are available at [Github, duhh!]
 
