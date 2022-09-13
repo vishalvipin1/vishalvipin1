@@ -22,6 +22,6 @@ Skills: HTML / CSS / JavaScript / MySQL / Python / C / C++
 
 ![GitHub metrics](https://metrics.lecoq.io/vishalvipin1)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vishalvipin1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vishalvipin1&theme=highcontrast)](https://git.io/streak-stats)
 
 
