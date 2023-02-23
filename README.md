@@ -11,7 +11,7 @@ Skills: HTML / CSS / JavaScript / MySQL / Python / C / C++ / Java.
 - 👯 I’m looking to collaborate on Research and Practical Projects 
 - 🤔 I’m looking for help with being mentally stable 
 - 💬 Ask me about coding stuff 
-- 📫 How to reach me: vishalvipin123@gmail.com 
+- 📫 How to reach me: vishaluxo@protonmail.ch
 - 😄 Pronouns: I/dont/know 
 - ⚡ Fun fact: I'm an Introvert 
 
