@@ -4,7 +4,7 @@
 
 Consist of repo and custom projects. Feel free to collab with me.
 
-Skills: HTML / CSS / JavaScript / MySQL / Python / C / C++ / Java / Data Science / Ethical Hacking
+Skills: HTML / CSS / JavaScript / MySQL / Python / C / C++ / Java / Data Science and Analytics / Ethical Hacking / Machine Learning 
 
 - 🔭 I’m currently working on developing my coding skills 
 - 🌱 I’m currently learning Ethical Hacking 
