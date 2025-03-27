@@ -37,5 +37,5 @@ Skills: HTML / CSS / JavaScript / MySQL / Python / C / C++ / Java / Data Science
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vishalvipin1&theme=highcontrast)](https://git.io/streak-stats)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vishaalvipin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nl.linkedin.com/in/vishaalvipin?trk=profile-badge">Vishaal Vipin Mohan</a></div>
+
               
