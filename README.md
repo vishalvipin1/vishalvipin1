@@ -16,7 +16,7 @@ Skills: HTML / CSS / JavaScript / MySQL / Python / C / C++ / Java / Data Science
 - ⚡ Fun fact: I'm an Introvert 
 
 
-## Connect with me  
+### Connect with me  
 <div align="center">
 <a href="https://github.com/vishalvipin1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -38,7 +38,6 @@ Skills: HTML / CSS / JavaScript / MySQL / Python / C / C++ / Java / Data Science
 ### Stats
 
 ![Vishalu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalvipin1&theme=gotham&show_icons=true) 
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vishalvipin1&theme=highcontrast)](https://git.io/streak-stats)
 
 
