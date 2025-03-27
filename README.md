@@ -6,10 +6,10 @@ Consist of repo and custom projects. Feel free to collab with me.
 
 Skills: HTML / CSS / JavaScript / MySQL / Python / C / C++ / Java / Data Science and Analytics / Ethical Hacking / Machine Learning / Intrusion Detection
 
-- 🔭 I’m currently working on impo
-- 🌱 I’m currently learning Cybersecurity
-- 👯 I’m looking to collaborate on Research and Practical Projects (and Internships obviously!)
-- 🤔 I’m looking for help with being mentally stable
+- 🔭 I’m currently working on Anomaly Detection of Network Traffic for Intrusion Detection
+- 🌱 I’m currently learning Cybersecurity (Well if you haven't known yet)
+- 👯 I’m looking to collaborate on Research and Practical Projects
+- 🤔 I’m looking for help with being mentally stable (and Internships obviously!)
 - 💬 Ask me about coding stuff 
 - 📫 How to reach me: vishaluxo@protonmail.ch
 - 😄 Pronouns: I/dont/know 
