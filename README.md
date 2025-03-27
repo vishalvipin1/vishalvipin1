@@ -4,12 +4,12 @@
 
 Consist of repo and custom projects. Feel free to collab with me.
 
-Skills: HTML / CSS / JavaScript / MySQL / Python / C / C++ / Java / Data Science and Analytics / Ethical Hacking / Machine Learning 
+Skills: HTML / CSS / JavaScript / MySQL / Python / C / C++ / Java / Data Science and Analytics / Ethical Hacking / Machine Learning / Intrusion Detection
 
-- 🔭 I’m currently working on developing my coding skills 
-- 🌱 I’m currently learning Ethical Hacking 
-- 👯 I’m looking to collaborate on Research and Practical Projects 
-- 🤔 I’m looking for help with being mentally stable 
+- 🔭 I’m currently working on impo
+- 🌱 I’m currently learning Cybersecurity
+- 👯 I’m looking to collaborate on Research and Practical Projects (and Internships obviously!)
+- 🤔 I’m looking for help with being mentally stable
 - 💬 Ask me about coding stuff 
 - 📫 How to reach me: vishaluxo@protonmail.ch
 - 😄 Pronouns: I/dont/know 
@@ -39,6 +39,7 @@ Skills: HTML / CSS / JavaScript / MySQL / Python / C / C++ / Java / Data Science
 
 ![Vishalu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalvipin1&theme=gotham&show_icons=true) 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vishalvipin1&theme=highcontrast)](https://git.io/streak-stats)
+<br>
 ![vishalvipin1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvipin1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
