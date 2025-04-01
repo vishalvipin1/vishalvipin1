@@ -38,8 +38,7 @@ Skills: HTML / CSS / JavaScript / MySQL / Python / C / C++ / Java / Data Science
 ### Stats
 
 ![Vishalu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalvipin1&theme=gotham&show_icons=true) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vishalvipin1&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br>
+
 ![vishalvipin1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvipin1&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
               
