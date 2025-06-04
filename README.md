@@ -11,7 +11,6 @@ Skills: HTML / CSS / JavaScript / MySQL / Python / C / C++ / Java / Data Science
 - 👯 I’d love to collaborate on Research and Practical Projects
 - 🤔 I’m looking for help with being mentally stable (and Internships obviously!)
 - 💬 Ask me about coding stuff 
-- 📫 How to reach me: vishaluxo@protonmail.ch
 - 😄 Pronouns: I/dont/know 
 - ⚡ Fun fact: I'm an Introvert 
 
